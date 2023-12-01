@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "args": ["${fileDirname}/input.txt"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
