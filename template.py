@@ -1,5 +1,4 @@
 from sys import argv
-from functools import reduce
 
 def main():
     if len(argv) < 2:
